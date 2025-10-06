@@ -23,3 +23,6 @@ if __name__ == "__main__":
     print("Product:", multiply(a, b))
     print("Division:", divide(a, b))
     print("Welcome to git tutorial")
+    print("hello")
+    print("hi")
+
